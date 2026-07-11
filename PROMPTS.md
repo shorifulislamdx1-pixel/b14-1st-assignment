@@ -23,38 +23,22 @@ $ git add .
 
 Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
 $ git commit -m "second commit"
-[main 79319df] second commit
- 2 files changed, 123 insertions(+), 1 deletion(-)
-
-Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
-$ git push
-Enumerating objects: 7, done.
-Counting objects: 100% (7/7), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (4/4), done.
-Writing objects: 100% (4/4), 1.14 KiB | 1.14 MiB/s, done.
-Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
-To https://github.com/shorifulislamdx1-pixel/b14-1st-assignment.git
-   de13c0a..79319df  main -> main
-
-Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
 $ git add .
-
+ 2 files changed, 123 insertions(+), 1 deletion(-)
 Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
 $ git commit _m "prompt added"
 error: pathspec '_m' did not match any file(s) known to git
 error: pathspec 'prompt added' did not match any file(s) known to git
-
+Counting objects: 100% (7/7), done.
 Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
 $ git commit -m "prompt added"
-[main f1affd7] prompt added
- 1 file changed, 1 insertion(+)
- create mode 100644 PROMPTS.md
-
+[main f1affd7] prompt added, 1.14 KiB | 1.14 MiB/s, done.
+ 1 file changed, 1 insertion(+)lta 0), pack-reused 0 (from 0)
+ create mode 100644 PROMPTS.md (2/2), completed with 2 local objects.
+To https://github.com/shorifulislamdx1-pixel/b14-1st-assignment.git
 Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
 $ git push
-Enumerating objects: 4, done.
+Enumerating objects: 4, done.GW64 /c/Projects/assignment-1/b14-1st-assignment (main)
 Counting objects: 100% (4/4), done.
 Delta compression using up to 8 threads
 Compressing objects: 100% (3/3), done.
@@ -62,6 +46,31 @@ Writing objects: 100% (3/3), 397 bytes | 397.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/shorifulislamdx1-pixel/b14-1st-assignment.git
    79319df..f1affd7  main -> main
+
+Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
+$ 
+ *  History restored 
+
+
+Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
+$ git add .
+
+Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
+$ git commit -m "second commit"
+[main 4a913e8] second commit
+ 3 files changed, 295 insertions(+), 3 deletions(-)
+
+Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
+$ git push
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 2.57 KiB | 2.57 MiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/shorifulislamdx1-pixel/b14-1st-assignment.git
+   f1affd7..4a913e8  main -> main
 
 Bappy_10R@DESKTOP-RR728SM MINGW64 /c/Projects/assignment-1/b14-1st-assignment (main)
 $ 

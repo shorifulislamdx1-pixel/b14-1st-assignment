@@ -162,8 +162,8 @@ nav ul li a {
     cursor: pointer;
 }
 
-
 .faq{
+    
     display: flex;
     justify-content: space-around;
     padding: 80px 60px;
@@ -201,6 +201,7 @@ nav ul li a {
     color: gray;
     line-height: 25px;
 }
+
 
 
 footer{
